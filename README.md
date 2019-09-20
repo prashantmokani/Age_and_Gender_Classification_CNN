@@ -21,3 +21,21 @@ Senior = 60+.
 The name of dataset is "UTKFace" where the information about age, gender, and ethnicity is given in the image title.
 ***Link***: https://www.kaggle.com/jangedoo/utkface-new
 
+# Convolution Neural Network
+
+***Link***: https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
+
+# Training CNN
+##### Image Preprocessing:
+Face Images are resize into 180X180 pixel size and converted into gray scale and given image input to CNN.
+
+For more than 2 class classification label is encoded with one hot encoding.
+
+# Results
+Confusion matrix for the Gender classification:
+
+![alt text](http://url/to/img.png)
+
+Confusion matrix for the Age Group classification:
+
+![alt text](http://url/to/img.png)
