@@ -34,8 +34,8 @@ For more than 2 class classification label is encoded with one hot encoding.
 # Results
 Confusion matrix for the Gender classification:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/conf_gender.PNG)
 
 Confusion matrix for the Age Group classification:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/conf_age.PNG)
