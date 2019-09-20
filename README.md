@@ -32,10 +32,17 @@ Face Images are resize into 180X180 pixel size and converted into gray scale and
 For more than 2 class classification label is encoded with one hot encoding.
 
 # Results
-Confusion matrix for the Gender classification:
+![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/male-senior-modi.JPG)
+
+![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/op1.PNG)
+
+![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/dubai.jpg)
+
+###### Confusion matrix for the Gender classification:
 
 ![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/conf_gender.PNG)
 
-Confusion matrix for the Age Group classification:
+###### Confusion matrix for the Age Group classification:
 
 ![alt text](https://github.com/prashantmokani/age_and_gender_classifier/blob/master/conf_age.PNG)
+
